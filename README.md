@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center">Olá! Sou a Hyngrid Gradizzi, criadora de conteúdos nerds sobre colecionáveis, hobbies e programação!</p>
+  <p align="center">Criadora de conteúdos nerds sobre colecionáveis, hobbies e programação!</p>
   <!-- <a href="https://"><img src="https://../img/.svg" alt="Imagem de capa do perfil GitHub @hyngridg"></a> -->
 </h1>
 
