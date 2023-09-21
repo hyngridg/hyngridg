@@ -30,7 +30,8 @@
 
 ## :computer: Projetos recentes
 :construction: Projetos em construção!
-1. [Projeto Faces Minifigures](https://github.com/hyngridg/Proj-FacesMinifigures.git)
+1. [Meu Primeiro Projeto Back-end](https://github.com/hyngridg/meu-primeiro-proj-back.git)
+2. [Meu site](https://github.com/hyngridg/meu-site.git)
 
 > Me sigam e deem :star: por favor como forma de incentivo. Obrigada! :sparkling_heart:
 
