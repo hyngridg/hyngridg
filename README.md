@@ -1,15 +1,12 @@
-## :woman_technologist: Apresentação 
-- **Restart em 2023**
-> Precisando de um portfólio para retornar ao mercado tive a ideia de criar projetos online e divulgá-los. Mas o que eu não contava era com o bloqueio criativo sobre quais temas e quais projetos de fato eu poderia criar de interessante. Demorou um tempinho para vir a brilhante idea. Um pouco frustrada com isso, resolvi seguir com os estudos sem focar no portfólio. E tcharann, o insight veio! 💡🙌
+## 👩🏻‍💻: Apresentação 
+- **Desenvolvedora Front-end | Designer Industrial | Técnica em Informática | 🚀 Em transição de carreira**
+> Tenho uma carreira de mais de 10 anos de experiência, onde desenvolvi competências com foco em Desenvolvimento Front-end, atuando em redesign, automação, atualizações tecnológicas e implementação de IA em aplicações web responsivas. Minha abordagem é centrada na excelência técnica moderna e no comprometimento com resultados inovadores.
 
-> A brilhante ideia foi de construir pequenos projetos (MVP - Mínimo Produto Viável) contendo os conhecimentos da minha trajetória de mais de 10 anos como Web Designer e somar com os novos conhecimentos adquiridos na reciclagem como desenvolvedora Front-end. Agora você deve estar se perguntando, mas sobre o quê?? Falaaa logooo!!
-
-> Decidi que estaria desenvolvendo projetos criativos com temáticas nerds sobre meus hobbies no qual o meu lema seria "Estudo enquanto me divirto.". Desde então sigo nessa jornada feliz, focada e estudiosa. 😎
+> Estudante de tecnologias atuais em renomadas plataformas virtuais com objetivo de ser uma profissional Full Stack.
 
 ## :brain: Ferramentas e Tecnologias
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -25,9 +22,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 <p>IBM Watson, Material Design, Grid layout, entre outras...</p>
 
-## :zap:Sobre meus projetos
-> `Vale ressaltar que em nenhum de meus projetos tenho a intenção de ofender ou denegrir a imagem das marcas. Apenas sou uma fã com vontade de estudar programação e continuar seguindo carreira em TI. #FicaADica`
-
 ## :computer: Projetos recentes
 :construction: Projetos em construção!
 1. [Meu Primeiro Projeto Back-end](https://github.com/hyngridg/meu-primeiro-proj-back.git)
@@ -39,5 +33,4 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/hyngrid-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Botão do LinkedIn para acessar meu perfil"></a> 
-  <a href="https://codepen.io/HyngridG" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Botão do LinkedIn para acessar meu perfil"></a>
 </div>
