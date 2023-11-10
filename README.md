@@ -1,16 +1,19 @@
 ## 👩🏻‍💻 Apresentação 
 
 > [!IMPORTANT]\
-> **:star: Desenvolvedora Front-end :star: Designer Industrial :star: Técnica em Informática 🚀 Em transição de carreira**
+> **:star: Desenvolvedora Front-end Jr :star: Designer Industrial :star: Técnica em Informática 🚀 Em transição de carreira**
 > 
-> Tenho uma carreira de mais de 10 anos de experiência, onde desenvolvi competências com foco em Desenvolvimento Front-end, atuando em redesign, automação, atualizações tecnológicas e implementação de IA em aplicações web responsivas. Minha abordagem é centrada na excelência técnica moderna e no comprometimento com resultados inovadores.
+> Com mais de 10 anos de experiência como profissional de Desenvolvimento Web, minha carreira começou como Web Designer, pude contribuir em estratégias de redesign, automação e atualizações tecnológicas em uma variedade de projetos, incluindo intranets, extranets, sites institucionais e landing pages. Destaco minha participação bem-sucedida na implementação da IA IBM Watson para otimizar o atendimento ao cliente em um site institucional.
+>
+> Motivada por minha paixão em tecnologias modernas, estou comprometida em retornar ao mercado de TI com habilidades atualizadas. Atualmente, estou focada em aprimorar minhas competências em React.js / Next.js e expandir meu conhecimento em back-end para me tornar uma Desenvolvedora Full Stack. Sou aluna em plataformas renomadas, como ADA Tech, Alura, DIO, Santander Becas, Potência Tech e Origamid.
 > 
-> Estudante de tecnologias atuais em renomadas plataformas virtuais com objetivo de ser uma profissional Full Stack.
 
 ## 
 
 > [!WARNING]\
-> Estou disponível se quiser trabalhar junto, fazer uma proposta ou tirar dúvidas nos links abaixo:
+> #OpenToWork
+> 
+> Estou entusiasmada e disponível para colaborar com sua equipe. Não hesite em entrar em contato para discutir oportunidades ou esclarecer qualquer dúvida nos links abaixo:
 <div> 
   <a href="https://www.linkedin.com/in/hyngrid-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=%230077B5" target="_blank"></a> 
   <a href="mailto:hyngridgradizzi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" target="_blank"></a>
